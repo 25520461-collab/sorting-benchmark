@@ -1,0 +1,24 @@
+# File thuc thi bien dich
+src/gen_data
+src/benchmark
+src/demo_naive_pivot
+*.o
+*.exe
+*.out
+
+# File tam cua Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+*.ilk
+*.pdb
+
+# File tam he thong
+.DS_Store
+Thumbs.db
+
+# File trung gian cua trinh bien dich cl (MSVC)
+*.obj
+*.ilk

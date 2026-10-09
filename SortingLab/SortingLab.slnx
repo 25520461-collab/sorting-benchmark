@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Benchmark/Benchmark.vcxproj" Id="d56bf0c7-afeb-4311-9134-ef398d995a3a" />
+  <Project Path="GenData/GenData.vcxproj" Id="4cfccd50-2459-4f8a-a0f5-fd848f81dff3" />
+</Solution>

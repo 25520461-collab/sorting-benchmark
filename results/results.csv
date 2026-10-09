@@ -1,0 +1,13 @@
+Sum of time_ms,Column Labels,,,,
+Row Labels,heapsort,mergesort,quicksort,stdsort,Grand Total
+D:\SortingLab\data\dataset_01_asc.txt,85.663,18.845,9.043,6.522,120.073
+D:\SortingLab\data\dataset_02_desc.txt,85.516,18.647,24.934,7.732,136.829
+D:\SortingLab\data\dataset_03_random.txt,127.881,90.692,64.841,66.576,349.99
+D:\SortingLab\data\dataset_04_random.txt,126.139,90.532,62.413,82.385,361.469
+D:\SortingLab\data\dataset_05_random.txt,143.149,98.231,72.367,75.906,389.653
+D:\SortingLab\data\dataset_06_random.txt,159.962,90.776,64.121,67.167,382.026
+D:\SortingLab\data\dataset_07_random.txt,127.886,89.953,61.736,67.427,347.002
+D:\SortingLab\data\dataset_08_random.txt,128.442,112.861,61.714,79.358,382.375
+D:\SortingLab\data\dataset_09_random.txt,140.556,92.27,68.15,71.978,372.954
+D:\SortingLab\data\dataset_10_random.txt,127.962,106.506,77.664,74.238,386.37
+Grand Total,1253.156,809.313,566.983,599.289,3228.741
